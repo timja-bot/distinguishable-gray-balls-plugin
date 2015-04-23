@@ -34,7 +34,7 @@ THE SOFTWARE.
   <version>0.12-SNAPSHOT</version>
   <name>Distinguishable Gray Balls</name>
   <description>Because default Jenkins icons don't differentiate between Not Built, Disabled and Aborted</description>
-  <url>http://github.com/kralq/distinguishable-gray-balls-plugin</url>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Distinguishable+Gray+Balls+Plugin</url>
   <inceptionYear>2014</inceptionYear>
 
   <properties>
@@ -64,9 +64,9 @@ THE SOFTWARE.
   </build>
 
   <scm>
-    <connection>scm:git:git://github.com/kralq/distinguishable-gray-balls.git</connection>
-    <developerConnection>scm:git:git://github.com/kralq/distinguishable-gray-balls.git</developerConnection>
-    <url>http://github.com/kralq/distinguishable-gray-balls</url>
+    <connection>scm:git:git://github.com/jenkinsci/distinguishable-gray-balls-plugin.git</connection>
+    <developerConnection>scm:git:git://github.com/jenkinsci/distinguishable-gray-balls-plugin.git</developerConnection>
+    <url>http://github.com/jenkinsci/distinguishable-gray-balls-plugin</url>
   </scm>
 
   <repositories>
