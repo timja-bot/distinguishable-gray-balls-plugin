@@ -9,7 +9,7 @@ import java.util.Date;
 import org.apache.commons.httpclient.util.DateUtil;
 import org.jvnet.hudson.test.HudsonTestCase;
 
-import com.gargoylesoftware.htmlunit.WebResponse;
+import org.htmlunit.WebResponse;
 
 public class StatusIconIntegrationTest extends HudsonTestCase {
 
